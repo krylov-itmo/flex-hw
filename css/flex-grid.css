@@ -1,6 +1,8 @@
-/** {
-    box-sizing: border-box; что бы ширина рамки и падинги входили в ширину элемента
-}*/
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+}
 
 .flex-row {
     display: flex;
